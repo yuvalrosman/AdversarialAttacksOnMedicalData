@@ -1,5 +1,5 @@
 # AdversarialAttacksOnMedicalData
-<img src='/doc/images/models.png'>
+<img src='/images/models.png'>
 
 This repository contains the implementation of adversarial attack methods targeting MedShapeNet's 3D meshes. The code is designed to manipulate and perturb the mesh data in a way that degrades the performance of machine learning models trained on this dataset, specifically reducing their classification accuracy. The generated adversarial examples can be used for further research into the robustness and security of mesh-based neural networks, aiding in the development of more resilient models.
 
